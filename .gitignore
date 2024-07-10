@@ -1,0 +1,4 @@
+JSON_FILES/
+.DS_Store
+backend/__pycache__/__init__.cpython-312.pyc
+backend/__pycache__/core.cpython-312.pyc
